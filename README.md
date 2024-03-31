@@ -40,7 +40,7 @@ The flow of control and AI orchestration is implemented using [Langchain](https:
 
 To get the project up and running, make sure Docker is installed on your system.
 
-1. Open your .env file and paste your OpenAI_API_Key
+1. Rename the .env.example to .env and set your OpenAI_API_Key.
 
 2. Run the following command on your terminal in the project directory:
 
