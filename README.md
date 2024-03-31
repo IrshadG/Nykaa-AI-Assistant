@@ -52,3 +52,4 @@ docker-compose up
 
 The architecture of the project is inspired from [this GitHub repo](https://github.com/Coding-Crashkurse/Langchain-Production-Project/tree/main)
 
+The [Nykaa](https://www.nykaa.com) dataset has been taken from this [Kaggle dataset](https://www.kaggle.com/datasets/susant4learning/nykaacosmeticsproductsreview2021/code)
